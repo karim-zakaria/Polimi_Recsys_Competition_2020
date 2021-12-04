@@ -12,7 +12,6 @@ Notebooks/
 Notebooks_utils/
 ParameterTuning/
 result_experiments/
-s/
 slides/
 SLIM_/
 SLIM_BPR/
@@ -20,4 +19,3 @@ SLIM_ElasticNet/
 Utils/
 W_sparse.npz
 .ipynb_checkpoints/
-Compute_Similarity_Cython.c Compute_Similarity_Cython.cpython-38-x86_64-linux-gnu.so Compute_Similarity_Cython.pyx
